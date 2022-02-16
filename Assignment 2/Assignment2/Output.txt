@@ -1,0 +1,203 @@
+Day 1 has begun.
+Day 2 has begun.
+Buyer #1 has entered the dealership
+Buyer #0 has entered the dealership
+The showroom is empty, buyer #1 is waiting to buy a car
+Buyer #2 has entered the dealership
+The showroom is empty, buyer #0 is waiting to buy a car
+The showroom is empty, buyer #2 is waiting to buy a car
+Seller #1 has entered the dealership. They wish to sell a black car with the registration 19-G-7491 worth e1616 
+Buyer #3 has entered the dealership
+Buyer #4 has entered the dealership
+Seller #0 has entered the dealership. They wish to sell a white car with the registration 19-G-9682 worth e15812
+Day 3 has begun.
+Seller #1 has sold their car for 1616
+Day 4 has begun.
+Buyer #5 has entered the dealership
+Seller #2 has entered the dealership. They wish to sell a purple car with the registration 18-G-3627 worth e13816
+Seller #3 has entered the dealership. They wish to sell a purple car with the registration 21-G-7946 worth e9666
+Day 5 has begun.
+Buyer #1 has purchased a black car with the registration 19-G-7491 worth e1616 for 1939.1999999999998 (after dealership markup)
+Buyer #6 has entered the dealership
+Seller #5 has entered the dealership. They wish to sell a white car with the registration 20-G-9323 worth e18627
+Day 6 has begun.
+Seller #4 has entered the dealership. They wish to sell a black car with the registration 12-G-5729 worth e8668
+Seller #0 has sold their car for 15812
+Buyer #9 has entered the dealership
+Seller #6 has entered the dealership. They wish to sell a orange car with the registration 15-G-6348 worth e14328
+Day 7 has begun.
+Buyer #8 has entered the dealership
+Buyer #7 has entered the dealership
+Day 8 has begun.
+Seller #7 has entered the dealership. They wish to sell a purple car with the registration 15-G-6836 worth e10490
+Buyer #4 has purchased a white car with the registration 19-G-9682 worth e15812 for 18974.399999999998 (after dealership markup)
+Buyer #12 has entered the dealership
+Seller #8 has entered the dealership. They wish to sell a purple car with the registration 17-G-8348 worth e2315
+Day 9 has begun.
+Buyer #11 has entered the dealership
+Buyer #10 has entered the dealership
+Day 10 has begun.
+Buyer #13 has entered the dealership
+The showroom is empty, buyer #3 is waiting to buy a car
+Seller #10 has entered the dealership. They wish to sell a 2006 Ford Fiesta Green w the spoiler car with the registration 16-G-9780 worth e7931
+Day 11 has begun.
+Seller #9 has entered the dealership. They wish to sell a purple car with the registration 17-G-8508 worth e13182
+The showroom is empty, buyer #13 is waiting to buy a car
+Seller #11 has entered the dealership. They wish to sell a purple car with the registration 21-G-5203 worth e8765
+Day 12 has begun.
+Buyer #14 has entered the dealership
+Seller #12 has entered the dealership. They wish to sell a purple car with the registration 18-G-7131 worth e18445
+The showroom is empty, buyer #10 is waiting to buy a car
+Buyer #15 has entered the dealership
+Day 13 has begun.
+The showroom is empty, buyer #11 is waiting to buy a car
+Seller #8 has sold their car for 2315
+Seller #14 has entered the dealership. They wish to sell a orange car with the registration 17-G-2784 worth e12394
+Seller #15 has entered the dealership. They wish to sell a white car with the registration 12-G-5480 worth e15595
+Buyer #12 has purchased a purple car with the registration 17-G-8348 worth e2315 for 2778.0 (after dealership markup)        
+Day 14 has begun.
+Seller #13 has entered the dealership. They wish to sell a orange car with the registration 10-G-2602 worth e14712
+Seller #7 has sold their car for 10490
+Buyer #16 has entered the dealership
+Buyer #18 has entered the dealership
+Buyer #7 has purchased a purple car with the registration 15-G-6836 worth e10490 for 12588.0 (after dealership markup)       
+Buyer #17 has entered the dealership
+Seller #16 has entered the dealership. They wish to sell a white car with the registration 12-G-3619 worth e10328
+Day 15 has begun.
+The showroom is empty, buyer #8 is waiting to buy a car
+Seller #6 has sold their car for 14328
+Day 16 has begun.
+Seller #18 has entered the dealership. They wish to sell a purple car with the registration 18-G-3231 worth e13879
+Seller #17 has entered the dealership. They wish to sell a purple car with the registration 13-G-6614 worth e10591
+Seller #20 has entered the dealership. They wish to sell a white car with the registration 12-G-5308 worth e9480
+Day 17 has begun.
+Buyer #19 has entered the dealership
+Seller #19 has entered the dealership. They wish to sell a white car with the registration 10-G-8523 worth e10164
+Buyer #9 has purchased a orange car with the registration 15-G-6348 worth e14328 for 17193.6 (after dealership markup)       
+Buyer #20 has entered the dealership
+Seller #21 has entered the dealership. They wish to sell a 2006 Ford Fiesta Green w the spoiler car with the registration 16-G-8787 worth e6950
+Day 18 has begun.
+The showroom is empty, buyer #2 is waiting to buy a car
+Day 19 has begun.
+Seller #22 has entered the dealership. They wish to sell a purple car with the registration 18-G-8589 worth e8259
+Seller #4 has sold their car for 8668
+Buyer #21 has entered the dealership
+Seller #23 has entered the dealership. They wish to sell a purple car with the registration 11-G-7694 worth e6880
+Day 20 has begun.
+Seller #5 has sold their car for 18627
+Buyer #6 has purchased a black car with the registration 12-G-5729 worth e8668 for 10401.6 (after dealership markup)
+Day 21 has begun.
+Seller #25 has entered the dealership. They wish to sell a orange car with the registration 19-G-1560 worth e2301
+Seller #24 has entered the dealership. They wish to sell a 2006 Ford Fiesta Green w the spoiler car with the registration 17-G-4013 worth e19585
+Buyer #23 has entered the dealership
+Seller #27 has entered the dealership. They wish to sell a orange car with the registration 21-G-1692 worth e14007
+Day 22 has begun.
+Buyer #22 has entered the dealership
+Seller #26 has entered the dealership. They wish to sell a orange car with the registration 15-G-6387 worth e5991
+Buyer #0 has purchased a white car with the registration 20-G-9323 worth e18627 for 22352.399999999998 (after dealership markup)
+Day 23 has begun.
+Seller #29 has entered the dealership. They wish to sell a orange car with the registration 17-G-6019 worth e10715
+Seller #28 has entered the dealership. They wish to sell a orange car with the registration 21-G-8470 worth e11751
+Seller #30 has entered the dealership. They wish to sell a white car with the registration 17-G-3767 worth e17851
+Day 24 has begun.
+Buyer #26 has entered the dealership
+Buyer #24 has entered the dealership
+Buyer #25 has entered the dealership
+Seller #3 has sold their car for 9666
+Buyer #28 has entered the dealership
+Buyer #27 has entered the dealership
+Day 25 has begun.
+Seller #32 has entered the dealership. They wish to sell a white car with the registration 16-G-2821 worth e6389
+Seller #31 has entered the dealership. They wish to sell a white car with the registration 12-G-4179 worth e7571
+Seller #34 has entered the dealership. They wish to sell a white car with the registration 16-G-7927 worth e14371
+Seller #33 has entered the dealership. They wish to sell a white car with the registration 10-G-4708 worth e11218
+Day 26 has begun.
+Seller #2 has sold their car for 13816
+Buyer #29 has entered the dealership
+Seller #35 has entered the dealership. They wish to sell a white car with the registration 10-G-5717 worth e18950
+Buyer #5 has purchased a purple car with the registration 21-G-7946 worth e9666 for 11599.199999999999 (after dealership markup)
+Buyer #31 has entered the dealership
+Buyer #30 has entered the dealership
+Seller #36 has entered the dealership. They wish to sell a orange car with the registration 20-G-1678 worth e10709
+Day 27 has begun.
+Seller #33 has sold their car for 11218
+Seller #34 has sold their car for 14371
+Seller #37 has entered the dealership. They wish to sell a purple car with the registration 16-G-8475 worth e14324
+Seller #39 has entered the dealership. They wish to sell a purple car with the registration 14-G-7182 worth e12704
+Seller #38 has entered the dealership. They wish to sell a orange car with the registration 20-G-4830 worth e14847
+Seller #31 has sold their car for 7571
+Day 28 has begun.
+Seller #32 has sold their car for 6389
+Buyer #27 has purchased a purple car with the registration 18-G-3627 worth e13816 for 16579.2 (after dealership markup)      
+Buyer #32 has entered the dealership
+Day 29 has begun.
+Seller #40 has entered the dealership. They wish to sell a purple car with the registration 19-G-5566 worth e10349
+Buyer #33 has entered the dealership
+Buyer #28 has purchased a white car with the registration 10-G-4708 worth e11218 for 13461.6 (after dealership markup)       
+Day 30 has begun.
+Seller #42 has entered the dealership. They wish to sell a orange car with the registration 21-G-4617 worth e17713
+Seller #41 has entered the dealership. They wish to sell a purple car with the registration 14-G-9607 worth e6827
+Seller #44 has entered the dealership. They wish to sell a orange car with the registration 21-G-1355 worth e13282
+Buyer #35 has entered the dealership
+Buyer #34 has entered the dealership
+Buyer #25 has purchased a white car with the registration 16-G-7927 worth e14371 for 17245.2 (after dealership markup)       
+Seller #43 has entered the dealership. They wish to sell a 2006 Ford Fiesta Green w the spoiler car with the registration 17-G-8125 worth e5966
+Buyer #24 has purchased a white car with the registration 12-G-4179 worth e7571 for 9085.199999999999 (after dealership markup)
+Buyer #36 has entered the dealership
+Buyer #26 has purchased a white car with the registration 16-G-2821 worth e6389 for 7666.799999999999 (after dealership markup)
+Seller #30 has sold their car for 17851
+Seller #28 has sold their car for 11751
+Seller #29 has sold their car for 10715
+Seller #26 has sold their car for 5991
+Buyer #22 has purchased a white car with the registration 17-G-3767 worth e17851 for 21421.2 (after dealership markup)       
+Seller #27 has sold their car for 14007
+Buyer #23 has purchased a orange car with the registration 21-G-8470 worth e11751 for 14101.199999999999 (after dealership markup)
+Seller #24 has sold their car for 19585
+Seller #25 has sold their car for 2301
+Seller #23 has sold their car for 6880
+Buyer #21 has purchased a orange car with the registration 17-G-6019 worth e10715 for 12858.0 (after dealership markup)      
+Buyer #2 has purchased a orange car with the registration 15-G-6387 worth e5991 for 7189.2 (after dealership markup)
+Seller #22 has sold their car for 8259
+Seller #21 has sold their car for 6950
+Buyer #20 has purchased a orange car with the registration 21-G-1692 worth e14007 for 16808.399999999998 (after dealership markup)
+Seller #19 has sold their car for 10164
+Buyer #19 has purchased a 2006 Ford Fiesta Green w the spoiler car with the registration 17-G-4013 worth e19585 for 23502.0 (after dealership markup)
+Seller #20 has sold their car for 9480
+Seller #17 has sold their car for 10591
+Seller #18 has sold their car for 13879
+Buyer #8 has purchased a orange car with the registration 19-G-1560 worth e2301 for 2761.2 (after dealership markup)
+Seller #16 has sold their car for 10328
+Buyer #17 has purchased a purple car with the registration 11-G-7694 worth e6880 for 8256.0 (after dealership markup)        
+Buyer #11 has purchased a purple car with the registration 18-G-8589 worth e8259 for 9910.8 (after dealership markup)        
+Buyer #18 has purchased a 2006 Ford Fiesta Green w the spoiler car with the registration 16-G-8787 worth e6950 for 8340.0 (after dealership markup)
+Buyer #16 has purchased a white car with the registration 10-G-8523 worth e10164 for 12196.8 (after dealership markup)       
+Buyer #10 has purchased a white car with the registration 12-G-5308 worth e9480 for 11376.0 (after dealership markup)        
+Seller #13 has sold their car for 14712
+Buyer #13 has purchased a purple car with the registration 13-G-6614 worth e10591 for 12709.199999999999 (after dealership markup)
+Seller #15 has sold their car for 15595
+Seller #14 has sold their car for 12394
+Buyer #3 has purchased a purple car with the registration 18-G-3231 worth e13879 for 16654.8 (after dealership markup)       
+Buyer #15 has purchased a white car with the registration 12-G-3619 worth e10328 for 12393.6 (after dealership markup)       
+Seller #12 has sold their car for 18445
+Buyer #14 has purchased a orange car with the registration 10-G-2602 worth e14712 for 17654.399999999998 (after dealership markup)
+Seller #11 has sold their car for 8765
+Seller #9 has sold their car for 13182
+Seller #10 has sold their car for 7931
+Buyer #36 has purchased a white car with the registration 12-G-5480 worth e15595 for 18714.0 (after dealership markup)       
+Seller #43 has sold their car for 5966
+Buyer #34 has purchased a orange car with the registration 17-G-2784 worth e12394 for 14872.8 (after dealership markup)      
+Buyer #35 has purchased a purple car with the registration 18-G-7131 worth e18445 for 22134.0 (after dealership markup)      
+Seller #44 has sold their car for 13282
+Seller #41 has sold their car for 6827
+Seller #42 has sold their car for 17713
+Buyer #33 has purchased a purple car with the registration 21-G-5203 worth e8765 for 10518.0 (after dealership markup)       
+Seller #40 has sold their car for 10349
+Buyer #32 has purchased a purple car with the registration 17-G-8508 worth e13182 for 15818.4 (after dealership markup)      
+Seller #38 has sold their car for 14847
+Seller #39 has sold their car for 12704
+Seller #37 has sold their car for 14324
+Seller #36 has sold their car for 10709
+Buyer #30 has purchased a 2006 Ford Fiesta Green w the spoiler car with the registration 16-G-9780 worth e7931 for 9517.199999999999 (after dealership markup)
+Buyer #31 has purchased a 2006 Ford Fiesta Green w the spoiler car with the registration 17-G-8125 worth e5966 for 7159.2 (after dealership markup)
+Seller #35 has sold their car for 18950
+Buyer #29 has purchased a orange car with the registration 21-G-1355 worth e13282 for 15938.4 (after dealership markup)  
